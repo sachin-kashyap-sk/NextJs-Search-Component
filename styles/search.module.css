@@ -1,0 +1,38 @@
+.searchContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  padding-top: 10%;
+}
+
+.textHeader {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.innerContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding-top: 5%;
+}
+
+.input {
+  padding: 1%;
+  width: 40%;
+}
+
+.btn {
+  width: 10%;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 600;
+}
